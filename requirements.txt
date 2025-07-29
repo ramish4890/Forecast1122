@@ -1,5 +1,8 @@
 streamlit
 pandas
 numpy
-openpyxl # For reading/writing Excel files
-xlsxwriter # For writing Excel files (used by pandas ExcelWriter)
+openpyxl
+xlsxwriter
+tensorflow
+matplotlib
+scikit-learn # for MinMaxScaler
